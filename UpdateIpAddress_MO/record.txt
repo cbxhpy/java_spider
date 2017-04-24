@@ -1,0 +1,10 @@
+1、集合：key--
+	first_class,second_class,third_class,fourth_class,country,province,city,day,hour
+	
+	value--
+	Object(int, hashSet, hashSet) <--> pv uv ip
+	
+	
+2、不再抽取文件，而是定期更新。后期IP库维护，插入时判断是否存在。
+	
+	
